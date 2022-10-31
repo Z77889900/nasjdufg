@@ -1,0 +1,20 @@
+{
+  "name": "buasdjg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ww77889900/buasdjg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ww77889900/buasdjg/issues"
+  },
+  "homepage": "https://github.com/ww77889900/buasdjg#readme"
+}
